@@ -1,0 +1,7 @@
+{
+  "name": "Bliss Massage",
+  "type": "custom",
+  "integrations": {
+    "cordova": {}
+  }
+}
