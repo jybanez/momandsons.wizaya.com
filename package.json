@@ -1,23 +1,25 @@
 {
-  "name": "bliss.wizaya.com",
+  "name": "momandsons.wizaya.com",
   "version": "1.0.4",
-  "description": "Official app of bliss.ph",
+  "description": "Official app of Mon and Sons Cafe",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jybanez/bliss.wizaya.com.git"
+    "url": "git+https://github.com/jybanez/momandsons.wizaya.com.git"
   },
   "keywords": [
-    "Project",
-    "Titan"
+    "Mom and Sons",
+    "Cafe",
+    "Restaurant",
+    "Online Orders"
   ],
   "author": "Wizaya Business Technologies",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jybanez/bliss.wizaya.com/issues"
+    "url": "https://github.com/jybanez/momandsons.wizaya.com/issues"
   },
-  "homepage": "https://github.com/jybanez/bliss.wizaya.com#readme"
+  "homepage": "https://github.com/jybanez/momandsons.wizaya.com#readme"
 }
